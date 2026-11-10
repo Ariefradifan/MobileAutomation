@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01.RegisterandLogin</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Arip Radifan</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Arip Radifan</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>d1e6aaeb-6487-4205-bbb5-5e92365df1a3</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>d1e6aaeb-6487-4205-bbb5-5e92365df1a3</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b8494285-9eda-4d65-9486-67c06e7919e7</testCaseGuid>
+</TestCaseEntity>

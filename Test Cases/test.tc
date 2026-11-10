@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Arip Radifan</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>d1e6aaeb-6487-4205-bbb5-5e92365df1a3</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9fee3a6b-2f95-4f08-b874-600634cfac71</testCaseGuid>
+</TestCaseEntity>
